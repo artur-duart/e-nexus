@@ -160,7 +160,7 @@ Project Link: [https://github.com/artur-duart/e-nexus](https://github.com/artur-
 [issues-shield]: https://img.shields.io/github/issues/artur-duart/e-nexus.svg?style=for-the-badge
 [issues-url]: https://github.com/artur-duart/e-nexus/issues
 [license-shield]: https://img.shields.io/github/license/artur-duart/e-nexus.svg?style=for-the-badge
-[license-url]: https://github.com/artur-duart/e-nexus/blob/main/LICENSE
+[license-url]: https://github.com/artur-duart/e-nexus/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/artur-duart
 [product-screenshot]: images/screenshot.png
