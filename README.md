@@ -26,7 +26,7 @@
     ·
     <a href="https://github.com/artur-duart/e-nexus/issues">Report Bug</a>
     ·
-    <a href="https://github.com/artur-duart/e-nexus/issues">Request Feature</a>
+    <a href="https://github.com/artur-duart/e-nexus/pulls">Request Feature</a>
   </p>
 </div>
 
