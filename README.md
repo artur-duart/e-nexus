@@ -22,7 +22,7 @@
     <a href="https://github.com/artur-duart/e-nexus"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/artur-duart/e-nexus">View Demo</a>
+    <a href="e-nexus.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/artur-duart/e-nexus/issues">Report Bug</a>
     ·
